@@ -1,0 +1,74 @@
+body {
+    padding: 1rem 5rem;
+    font-family: Poppins;
+}
+
+img {
+    width: 70%;
+    height: auto;
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    display: block;
+}
+
+h1 {
+    font-size: 6rem;
+    font-weight: 700;
+}
+
+p {
+    font-size: 1.6rem;
+}
+
+li {
+    font-size: 1.6rem;
+}
+
+.header {
+    font-weight: 500;
+    color: #FFFF;
+    background-color: #5f1717;
+    border-radius: 7px;
+    padding: 0.7rem 0.3rem;
+    width: 45rem;
+    text-align: center;
+}
+
+.header-txt {
+    font-size: 3.5rem;
+}
+
+h2 {
+    font-weight: 600;
+    margin: 0 1rem;
+}
+
+.part-header {
+    font-weight: 600;
+    margin: 8rem 1rem 0;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid rgb(124, 14, 14);
+    width: 90%;
+}
+
+h3 {
+    font-size: 2.75rem;
+}
+
+.project-title {
+    width: auto;
+    margin: auto;
+    margin-bottom: 6rem;
+}
+
+.section-body {
+    padding: 0rem 3.5rem;
+    width: 85%;
+    margin: auto;
+    margin-bottom: 5rem;
+}
+
+.link-text {
+    margin: 3rem 0 0;
+}
